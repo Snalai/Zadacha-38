@@ -12,7 +12,6 @@ void fun(int b)
     }
     else if (b > 1)
     {
-
         double min = mas[0];
         double max = mas.Length - 1;
         for (int i = 0; i < mas.Length; i++)
