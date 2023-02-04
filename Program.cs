@@ -32,7 +32,7 @@ void fun(int b)
         }
         double ras = max - min;
         Console.WriteLine($"Мин: {min}, Макс: {max}");
-        Console.WriteLine($"Разницу между максимальным и минимальным элементов массива равна: {ras}");
+        Console.WriteLine($"Разница между максимальным и минимальным элементов массива равна: {ras}");
     }
     else
     {
